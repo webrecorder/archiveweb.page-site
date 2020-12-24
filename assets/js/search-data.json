@@ -1,0 +1,104 @@
+{"0": {
+    "doc": "Contact",
+    "title": "CONTACT US",
+    "content": "We are always trying to improve and we’d appreciate your feedback on how we can make the documentation easy and concise to support your needs! Please contact us in any of the following ways. Looking forward to hearing from you. Email: Send us a message . We have an email address! . Send us a message at info@webrecorder.net and someone from the webrecorder team will get back to you. GitHub: Submit a pull request . We have a github account! . If there is an issue or bug, you can submit a pull request on our github for the archiveweb.page and someone from the webrecorder team (or community!) will help out. Discuss: Post on our forum . We have a forum for all our users! . Webrecorder users post their questions, insights, and issues on our forum. Join the webrecorder community to participate as well! . ",
+    "url": "http://localhost:4000/contact#contact-us",
+    "relUrl": "/contact#contact-us"
+  },"1": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": " ",
+    "url": "http://localhost:4000/contact",
+    "relUrl": "/contact"
+  },"2": {
+    "doc": "Examples",
+    "title": "Examples",
+    "content": "TESTING . ",
+    "url": "http://localhost:4000/examples",
+    "relUrl": "/examples"
+  },"3": {
+    "doc": "Welcome",
+    "title": "USER GUIDE: ARCHIVEWEB.PAGE EXTENSION",
+    "content": " ",
+    "url": "http://localhost:4000/#user-guide-archivewebpage-extension",
+    "relUrl": "/#user-guide-archivewebpage-extension"
+  },"4": {
+    "doc": "Welcome",
+    "title": "What is this?",
+    "content": "Welcome to this instructional guide on how to use Webrecorder’s archiveweb.page Chrome Extension for web archiving. ",
+    "url": "http://localhost:4000/#what-is-this",
+    "relUrl": "/#what-is-this"
+  },"5": {
+    "doc": "Welcome",
+    "title": "How do I use this guide?",
+    "content": "Use this guide to go over the following: . | Installing archiveweb.page | Capturing websites using archiveweb.page | Downloading your colletions from archiveweb.page | Sharing your collections from archiveweb.page | . ",
+    "url": "http://localhost:4000/#how-do-i-use-this-guide",
+    "relUrl": "/#how-do-i-use-this-guide"
+  },"6": {
+    "doc": "Welcome",
+    "title": "Where do I start?",
+    "content": "First time here? Start with installation section of the instructions. Ready to download? Go to the Download Archives section. Help! I have an error! Start with installation section of the instructions. ",
+    "url": "http://localhost:4000/#where-do-i-start",
+    "relUrl": "/#where-do-i-start"
+  },"7": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"8": {
+    "doc": "Install archiveweb.page",
+    "title": "How To Install archiveweb.page",
+    "content": " ",
+    "url": "http://localhost:4000/install#how-to-install-archivewebpage",
+    "relUrl": "/install#how-to-install-archivewebpage"
+  },"9": {
+    "doc": "Install archiveweb.page",
+    "title": "QUICK INSTRUCTIONS",
+    "content": ". | Find it: You can find the extension here | Add it: Click the Add to Chrome button and approve | Use it: Continue to Using archiveweb.page | Optional Pin it: to your extensions bar | . ",
+    "url": "http://localhost:4000/install#quick-instructions",
+    "relUrl": "/install#quick-instructions"
+  },"10": {
+    "doc": "Install archiveweb.page",
+    "title": "INSTRUCTIONS (WITH IMAGES)",
+    "content": ". | Find archiveweb.page in the Chrome store | Add archiveweb.page to your Chrome | How to Use archiveweb.page | Pin archiveweb.page to your Chrome extensions | . ",
+    "url": "http://localhost:4000/install#instructions-with-images",
+    "relUrl": "/install#instructions-with-images"
+  },"11": {
+    "doc": "Install archiveweb.page",
+    "title": "TROUBLESHOOTING",
+    "content": "Sometimes installation won’t work according to plan. That’s OK! Check out our troubleshooting page where we list out common errors and issues with web archiving. If you still need help, contact us. ",
+    "url": "http://localhost:4000/install#troubleshooting",
+    "relUrl": "/install#troubleshooting"
+  },"12": {
+    "doc": "Install archiveweb.page",
+    "title": "Install archiveweb.page",
+    "content": " ",
+    "url": "http://localhost:4000/install",
+    "relUrl": "/install"
+  },"13": {
+    "doc": "Using archiveweb.page",
+    "title": "Using archiveweb.page",
+    "content": "TESTING . ",
+    "url": "http://localhost:4000/capture",
+    "relUrl": "/capture"
+  },"14": {
+    "doc": "Download archives",
+    "title": "Download archives",
+    "content": "TESTING . ",
+    "url": "http://localhost:4000/download",
+    "relUrl": "/download"
+  },"15": {
+    "doc": "Sharing archives",
+    "title": "Sharing archives",
+    "content": "TESTING . ",
+    "url": "http://localhost:4000/sharing",
+    "relUrl": "/sharing"
+  },"16": {
+    "doc": "Troubleshooting",
+    "title": "Troubleshooting",
+    "content": "TESTING . ",
+    "url": "http://localhost:4000/troubleshooting",
+    "relUrl": "/troubleshooting"
+  }
+}
