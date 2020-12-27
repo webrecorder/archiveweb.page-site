@@ -3,7 +3,6 @@ layout: page
 title: Install archiveweb.page
 nav_order: 2
 has_children: true
-permalink: /installation
 ---
 
 # How To Install archiveweb.page

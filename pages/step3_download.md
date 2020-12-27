@@ -3,7 +3,6 @@ layout: page
 title: Download collections
 nav_order: 4
 has_children: true
-permalink: /download
 ---
 
 # How To Download Your Web Archives

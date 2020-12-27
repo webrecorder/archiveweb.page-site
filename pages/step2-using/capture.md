@@ -3,7 +3,6 @@ layout: page
 title: During Capture Session
 nav_order: 2
 parent: Capture with archiveweb.page
-permalink: /usage/capture_session
 ---
 
 # What Happens During A Capture Session

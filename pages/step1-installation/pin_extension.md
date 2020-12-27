@@ -3,7 +3,6 @@ layout: page
 title: Pin Extension
 nav_order: 5
 parent: Install archiveweb.page
-permalink: /installation/pin_extension
 ---
 
 

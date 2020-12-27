@@ -3,7 +3,6 @@ layout: page
 title: Find in Chrome store
 nav_order: 2
 parent: Install archiveweb.page
-permalink: /installation/chrome_store
 ---
 
 ### Finding the extension in Chrome Store

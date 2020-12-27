@@ -3,7 +3,6 @@ layout: page
 title: Entire collection
 nav_order: 1
 parent: Download collections
-permalink: /download/entire_collection
 ---
 # How To Download A Collection
 

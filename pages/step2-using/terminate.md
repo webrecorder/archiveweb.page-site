@@ -3,7 +3,6 @@ layout: page
 title: Terminate Capture Session
 nav_order: 3
 parent: Capture with archiveweb.page
-permalink: /usage/terminate_session
 ---
 
 # How To Terminate A Capture Session

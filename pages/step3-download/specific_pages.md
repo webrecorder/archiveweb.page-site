@@ -3,7 +3,6 @@ layout: page
 title: Specific pages
 nav_order: 2
 parent: Download collections
-permalink: /download/specific_pages
 ---
 
 # How To Download Specific Pages

@@ -3,7 +3,6 @@ layout: page
 title: Add to your Chrome
 nav_order: 3
 parent: Install archiveweb.page
-permalink: /installation/add_extension
 ---
 
 ### Adding archiveweb.page to your Chrome

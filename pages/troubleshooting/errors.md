@@ -3,7 +3,6 @@ layout: page
 title: Common Errors and Issues
 nav_order: 1
 parent: Troubleshooting
-permalink: /troubleshooting/common_errors
 ---
 
 ## Common Errors and Issues

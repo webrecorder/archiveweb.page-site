@@ -4,7 +4,6 @@ title: Initiate Capture Session
 nav_order: 1
 parent: Capture with archiveweb.page
 # has_children: true
-permalink: /usage/initiate_session
 ---
 
 # How To Initiate A Capture Session

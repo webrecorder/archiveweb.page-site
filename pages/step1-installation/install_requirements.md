@@ -3,7 +3,6 @@ layout: page
 title: Installation Requirements
 nav_order: 1
 parent: Install archiveweb.page
-permalink: /installation/requirements
 ---
 
 ### Installation Requirements

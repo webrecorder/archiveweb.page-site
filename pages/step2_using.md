@@ -3,7 +3,6 @@ layout: page
 title: Capture with archiveweb.page
 nav_order: 3
 has_children: true
-permalink: /usage
 ---
 
 # How To Use archiveweb.page
