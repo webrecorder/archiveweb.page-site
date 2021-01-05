@@ -1,7 +1,7 @@
 title: archiveweb.page
 description: User guide for webrecorder's archiveweb.page Chrome extension.
-baseurl: "webrecorder-extension"
-url: ""
+baseurl: 
+url: http://dalelore.github.io/webrecorder-extension
 
 
 # logo: "/assets/images/just-the-docs.png"
