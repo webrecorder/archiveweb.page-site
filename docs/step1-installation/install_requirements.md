@@ -21,5 +21,4 @@ Check the [Google Chrome Help](https://support.google.com/chrome/search?q=latest
 #### <b> Operating System Details </b>
 Whether you use Mac, Windows, or a version of Linux, as long as your computer environment is compatible with Chrome, you should be able to install the extension like any other Chrome extension.
 
-<hr>
-Go to Finding archiveweb.page in the Chrome Store [>>](/step1-installation/chromestore.html)
+

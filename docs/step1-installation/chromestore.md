@@ -18,7 +18,3 @@ This <b><a href="https://chrome.google.com/webstore/detail/webrecorder/fpeoodlll
 
 
 
-
-<hr>
-[<<](/installation/requirements) Go back to Review Installation Requirements<br>
-Go to Adding archiveweb.page to your Chrome [>>](/installation/add_extension)

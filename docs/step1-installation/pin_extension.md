@@ -16,10 +16,3 @@ This is completely optional! Having it pinned won't affect the webrecorder exten
   * When you click on it, scroll over the list to find the webrecorder extension.
   * Click on the push-pin
   * The webrecorder icon will appear in your extension bar
-
-  <hr>
-[<<](/installation/requirements) Go back to Review Installation Requirements<br>
-[<<](/installation/chrome_store) Go back to Finding archiveweb.page in the Chrome Store 
-[<<](/installation/add_extension) Go back to Adding archiveweb.page to your Chrome
-
-Go to Step 2: Using  archiveweb.page [>>](/usage)

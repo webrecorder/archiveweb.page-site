@@ -53,7 +53,3 @@ There are a couple of ways to access and manage the extension:
 
 #### <b><a href="/installation/pin_extension">Show me how to pin it</a></b>
 Pinning an extension just means having the icon accessible in your extensions bar. Just click on the pin icon to have it in your chrome's extensions bar.
-
-<hr>
-[<<](/installation/chrome_store) Go Back to Finding it in Chrome Store<br>
-Go to Step 2: Using archiveweb.page [>>](/usage)
