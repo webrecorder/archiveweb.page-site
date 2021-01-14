@@ -6,7 +6,12 @@ has_children: true
 ---
 
 # How To Use archiveweb.page
-With the archiveweb.page Chrome extension, you can essentially capture websites that you're viewing on Chrome. Manage your capture sessions by collections. Delete invidual captures that you no longer want or need. And replay your capture sessions to make sure it looks good!
+
+With the archiveweb.page Chrome extension, you can archive any pages as you're viewing and interacting with them in your browser.
+
+The first step to archiving is the *capture* process, where the extension will record or capture all network traffic and store it in the browser as part of the web archive.
+
+All captured data is organized by pages. You can further organize your archived pages into separate archive collections, view each page to make sure it is archived correctly, and delete invidual page captures that you no longer want or need.
 
 ## QUICK INSTRUCTIONS
 
@@ -15,17 +20,13 @@ With the archiveweb.page Chrome extension, you can essentially capture websites 
 3. <b>Terminate Session</b>: Click STOP from the extension icon
 <!-- 4. <b>Manage Session</b>: Organize the sessions into collections -->
 <!-- 5. <b>Replay Session</b>: Click on View Recorded Page from the extension icon -->
-
-## INSTRUCTIONS (WITH IMAGES)
-1. [Initiating a capture session](/usage/initiate_session)
-2. [Capturing a website](/usage/capture_session)
-3. [Terminating a capture session](/usage/terminate_session)
-<!-- 4. [Managing a capture session](/usage/manage_session) -->
-<!-- 5. [Replaying a capture session](/usage/replay_session) -->
-
 ![Capturing website GIF](/assets/images/step2-usage/step2-capture.gif)
 
 
-
 ## TROUBLESHOOTING
-Sometimes capture won't go according to plan. That's OK! The Internet is hard to archive. Check out our [troubleshooting page](/troubleshooting) where we list out common errors and issues with web archiving. If you still need help, [contact us](/contact).
+Sometimes capture won't go according to plan. That's OK! The Internet is hard to archive. Check out our [troubleshooting page](../troubleshooting) where we list out common errors and issues with web archiving. If you still need help, [contact us](../contact).
+
+## DETAILED INSTRUCTIONS (WITH IMAGES)
+
+The following pages offer additional guided instructions for various phases of the capturing process.
+

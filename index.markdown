@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 nav_order: 1
 description: "User Guide for archiveweb.page"
-permalink: /
+permalink: /docs/
 ---
 
 # USER GUIDE: ARCHIVEWEB.PAGE EXTENSION

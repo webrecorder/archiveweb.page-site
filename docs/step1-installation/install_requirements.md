@@ -6,19 +6,26 @@ parent: Install archiveweb.page
 ---
 
 ### Installation Requirements
-Besides requiring Chrome, this extension does not have any other dependencies.
+
+The extension requires Chrome or a Chromium-based browser. The extension does not have any other dependencies
 
 #### <b> Requirement Checklist</b>
 * Chrome web browser
+* or other Chromium-based browsers, including Brave, Edge
 
-#### <b> Chrome Details </b>
-The extension should work with the latest Chrome version. However, Chrome updates a lot. So when it changes, we need to make some adjustments too. If you're noticing changes or errors, [let us know](/contact).<br>
+#### <b> Browser Details </b>
+The extension has been tested with:
 
-Check the [Google Chrome Help](https://support.google.com/chrome/search?q=latest+version+of+chrome&from_promoted_search=true) if there are any new updates or need Chrome help:
-* Chrome is currently on Version 87.0.4280.88 for Windows, macOS, and Linux.
-* Extension ran fine on Version 86.0.4240.198
+* Chrome 87+
+* Brave 1.x+
+* Edge 87+
+
+However, as these browsers are regularly updated, the extension may need to be updated as well.
+
+If you're noticing changes or errors with a particular browser version, [let us know](../contact).<br>
+
+When in doubt, [try the latest version of Chrome](https://www.google.com/chrome/) first.
+
 
 #### <b> Operating System Details </b>
 Whether you use Mac, Windows, or a version of Linux, as long as your computer environment is compatible with Chrome, you should be able to install the extension like any other Chrome extension.
-
-

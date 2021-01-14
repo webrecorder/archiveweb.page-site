@@ -14,7 +14,7 @@ parent: Capture with archiveweb.page
 
 There are two simple ways you can initiate a capture session: 
 1. Image on the left: Capture session from clicking the extension while on the page you're viewing 
-2. Image on the right: Capture session from archiveweb.page home
+2. Image on the right: Capture session from the extension home page.
 
 ![Two options to initiate a capture session](/assets/images/step2-usage/step2-initiate_session.png)
 
@@ -43,11 +43,11 @@ There are two simple ways you can initiate a capture session:
 |![](/assets/images/step2-usage/scenario-1_3.png)|
 
 | Click on assets (videos, links, pages, etc) that you want archived <br>
-For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](/usage/capture_session) section of this user guide.|
+For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](./capture) section of this user guide.|
 
 
 ## <a id="from_collection"> Capture from collection </a>
-Capturing from Collection involves on extra step compared to [capturing from a webpage](/usage/initiate_session/from_page) because you first need to have a collection. Creating a collection is explained in [Managing Collection section](/usage/manage_collections). 
+Capturing from Collection involves on extra step compared to [capturing from a webpage](./initiate_session/from_page) because you first need to have a collection. Creating a collection is explained in [Managing Collection section](./manage_collections). 
 
 ### QUICK INSTRUCTIONS
 
@@ -76,4 +76,4 @@ Capturing from Collection involves on extra step compared to [capturing from a w
 |![](/assets/images/step2-usage/scenario-2_4.png)|
 
 |Click on assets (videos, links, pages, etc) that you want archived|
-|For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](/usage/capture_session) section of this user guide.|
+|For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](./capture) section of this user guide.|

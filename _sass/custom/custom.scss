@@ -1,0 +1,68 @@
+$awp-purple: #8878c3;
+$awp-blue: #4876ff;
+$link-color: #384ea2;
+
+//$content-width: 960px;
+//$nav-width-md: $nav-width;
+
+.side-bar {
+  @include mq(md) {
+    //max-width: calc(0.5rem + #{$nav-width});
+    //max-width: calc($nav-width + 4.0rem);
+  }
+}
+
+.site-title {
+  padding-right: 1.5rem !important;
+}
+
+.awp-brand {
+  display: flex;
+  align-items: center;
+}
+
+.logo-text {
+  display: flex;
+}
+
+.awp-guide-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  width: 32px;
+  height: 32px;
+  padding-right: 0.25em;
+}
+
+.awp-logo-font {
+  font-variant-caps: all-small-caps;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.awp-logo-font-smaller {
+  font-variant-caps: all-small-caps;
+  font-size: 18px;
+}
+
+
+
+.awp-purple {
+  color: $awp-purple;
+}
+
+.awp-blue {
+  color: $awp-blue;
+}
+
+.pad {
+  padding: 0.5rem;
+}
+
+.cap-header {
+  padding: 0 0 0 10px;
+  margin: 0;
+}
+

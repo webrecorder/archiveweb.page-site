@@ -6,10 +6,10 @@ parent: Install archiveweb.page
 ---
 
 ### Adding archiveweb.page to your Chrome
-* [Chromestore](/installation/add_extension#go-to-chromestore)
-* [Add to Chrome](/installation/add_extension#add-to-chrome)
-* [Manage Extensions](/installation/add_extension#managing-your-extensions)
-* [Pin Extension](/installation/add_extension#show-me-how-to-pin-it)
+* [Chromestore](#go-to-chromestore)
+* [Add to Chrome](#add-to-chrome)
+* [Manage Extensions](#managing-your-extensions)
+* [Pin Extension](#show-me-how-to-pin-it)
 
 <hr>
 
@@ -51,5 +51,5 @@ There are a couple of ways to access and manage the extension:
 <br>
 <hr>
 
-#### <b><a href="/installation/pin_extension">Show me how to pin it</a></b>
+#### <b><a href="pin_extension">Show me how to pin it</a></b>
 Pinning an extension just means having the icon accessible in your extensions bar. Just click on the pin icon to have it in your chrome's extensions bar.

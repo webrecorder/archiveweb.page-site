@@ -7,15 +7,14 @@ parent: Download collections
 # How To Download A Collection
 
 ## Choose an option:
-* [Download entire collection from archiveweb.page](#entire_collection_listing)
+* [Download entire collection from the extension home page](#entire_collection_listing)
 * [Download entire collection from a collection page](#entire_collection_page)
 
 <hr>
 
-### <a id="entire_collection_listing"> Download entire collection from archiveweb.page</a>
+### <a id="entire_collection_listing"> Download entire collection from the archive collections list</a>
 
-From the archiveweb.page home page, all your collections will be listed. Each collection will have descriptive information about itself: Title, Date Created, and Total Size. 
-
+From the extension home page, all your web archive collections will be listed. Each collection will have descriptive information about itself: Title, Date Created, and Total Size. 
 Then there are three quick actions you can do from this page: Download, Record a new site, and share (via IPFS).
 
 Click on the Download icon to download the entire collection.
