@@ -1,0 +1,200 @@
+<!doctype html>
+<html>
+  <head>
+    <title>ArchiveWeb.page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="/splash-assets/bulma.min.css" rel="stylesheet"/>
+
+    <link href="/splash-assets/fa/css/fontawesome.min.css" rel="stylesheet">
+    <link href="/splash-assets/fa/css/solid.min.css" rel="stylesheet">
+    <link href="/splash-assets/fa/css/brands.min.css" rel="stylesheet">
+
+    <script>
+      (async function() {
+        var extShow = ".ext-not-avail";
+
+        if (window.chrome) {
+          extShow = ".ext-needed";
+          try {
+            const res = await fetch("chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html");
+            if (res.status === 200) {
+              extShow = ".ext-installed";
+            }
+          } catch (e) {
+          }
+        }
+
+        window.addEventListener("load", () => {
+          document.querySelector(extShow).style.display = "";
+        });
+      })();
+    </script>
+
+    <style>
+      .main .title {
+        display: flex;
+        align-items: center;
+      }
+
+      .logo {
+        width: 48px;
+        height: 48px;
+      }
+
+      .awp-logo-font {
+        font-variant-caps: all-small-caps;
+        font-size: 32px;
+        font-weight: bold;
+      }
+
+      .awp-purple {
+        color: #8878c3;
+      }
+
+      .awp-blue {
+        color: #4876ff;
+      }
+
+      .main  {
+        background-color: #ddd;
+        border-radius: 8px;
+        padding: 2rem;
+      }
+
+      .container {
+        margin-top: 3rem;
+      }
+
+      .message {
+        margin-left: 20%;
+      }
+
+      .ext-needed {
+        font-size: 24px;
+        font-weight: bold;
+      }
+
+      .ext-installed {
+        font-size: 18px;
+      }
+
+      .ext-installed a {
+        font-weight: bold;
+      }
+
+      .ext-not-avail {
+        font-size: 18px;
+      }
+
+      .app-coming-soon {
+        font-size: 18px;
+        font-style: italic;
+      }
+
+      .heading {
+        background-color: white;
+        padding: 2rem;
+      }
+
+      .card-content {
+        font-size: 14px;
+      }
+
+      .card-content p {
+        margin-top: 1em;
+      }
+
+      .card-content .guide {
+        font-size: 18px;
+        font-weight: bold;
+        display: flex;
+        justify-content: space-between;
+      }
+
+      .source {
+        font-size: 16px;
+        margin-top: 1em;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .option-list {
+        margin-top: 2rem;
+        z-index: 100;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <section class="main">
+        <div class="">
+          <p class="title">
+            <img class="logo" src="/assets/images/awp-logo.svg"/>
+            <span class="awp-logo-font awp-purple">archive</span>
+            <span class="awp-logo-font awp-blue">web.page</span>
+          </p>
+          <p class="subtitle">
+            Interactive browser-based web archiving, a <a href="https://webrecorder.net/">Webrecorder</a> project.
+          </p>
+
+          <article class="card">
+            <div class="card-content">
+              <p>ArchiveWeb.page is the latest tool from Webrecorder to turn your browser into a full interactive web archiving system.</p>
+              <p>ArchiveWeb.page is available as an extension for any Chrome or Chromium based browsers.
+                (A standalone app version is also in development.)</p>
+              <p>To create web archives, the extension (or app) will be needed. 
+                Once created, the archives can be viewed in any modern browser using
+                <a href="https://replayweb.page">ReplayWeb.page</a> -- no extension required!
+              </p>
+              <p class="guide">
+                <a href="/guide/"><i class="fas fa-book"></i>&nbsp;View the ArchiveWeb.page User Guide</a>
+              </p>
+            </div>
+          </article>
+
+          <div class="option-list">
+            <div class="message ext-needed is-info" style="display: none">
+              <div class="message-body">
+                <i class="fab fa-chrome"></i>
+                <i class="fas fa-download"></i>
+                <a href="https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd">
+                Install Extension from Chrome Web Store</a>
+              </div>
+            </div>
+
+            <div class="message ext-installed is-primary" style="display: none">
+              <div class="message-body">
+                <i class="fas fa-check-circle"></i>&nbsp;ArchiveWeb.page Extension Installed!
+                <p><a href="chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html">View Archives in Extension</a></p>
+              </div>
+            </div>
+
+            <div class="message ext-not-avail is-danger" style="display: none">
+              <div class="message-body">
+                <i class="fas fa-times-circle"></i>&nbsp;Sorry, the ArchiveWeb.page browser Extension requires Chrome or a Chromium based browser.
+                Please try ArchiveWeb.page in Chrome or check back soon for additional options.
+               </div>
+            </div>
+
+            <div class="message app-coming-soon">
+              <div class="message-body">
+                ArchiveWeb.page Downloadable App -- Coming Soon. Please check back for more info!
+               </div>
+            </div>
+
+            <p class="source">
+              <span>View Source for:</span>
+              <a href="https://github.com/webrecorder/archiveweb.page">
+                <i class="fab fa-github"></i>&nbsp;Extension and App</a>
+              <a href="https://github.com/webrecorder/archiveweb.page-site">
+                <i class="fab fa-github"></i>&nbsp;This Site</a>
+            </p>
+
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
