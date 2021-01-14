@@ -25,9 +25,13 @@
           }
         }
 
-        window.addEventListener("load", () => {
+        if (document.readyState === "complete") {
           document.querySelector(extShow).style.display = "";
-        });
+        } else {
+          window.addEventListener("load", () => {
+            document.querySelector(extShow).style.display = "";
+          });
+        }
       })();
     </script>
 
@@ -166,8 +170,8 @@
 
             <div class="message ext-installed is-primary" style="display: none">
               <div class="message-body">
-                <i class="fas fa-check-circle"></i>&nbsp;ArchiveWeb.page Extension Installed!
-                <p><a href="chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html">View Archives in Extension</a></p>
+                <i class="fas fa-check-circle"></i>&nbsp;ArchiveWeb.page Extension Installed
+                <p><a href="chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html">Browse Web Archives stored in this browser.</a></p>
               </div>
             </div>
 
