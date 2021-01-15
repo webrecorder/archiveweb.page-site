@@ -16,7 +16,7 @@ parent: Install archiveweb.page
 #### <b>Go To Chromestore</b> 
 
 Once you opened the <a href="https://chrome.google.com/webstore/detail/webrecorder/fpeoodllldobpkbkabpblcfaogecpndd" target="_blank"> webrecorder page</a> on the Chrome Web Store, make sure that it states "Offered by: webrecorder.net" <br>
-![](/assets/images/step1-installation/step1-chromestore.png)
+![](/assets/images/installation/chromestore.png)
 
 ###### NOTE: You can't add extensions in Incognito mode. You need to be signed into your Google account because you can't add extensions as a guest.
 
@@ -25,13 +25,13 @@ Once you opened the <a href="https://chrome.google.com/webstore/detail/webrecord
 #### <b>Add to Chrome</b>
 
 1. Click the <b>Add to Chrome</b> button.
-![Click add to chrome](/assets/images/step1-installation/step1-add_extension.png) <br>
+![Click add to chrome](/assets/images/installation/add_extension.png) <br>
 
 2. To approve, click <b>Add Extension</b>. When you click the button, an alert will appear asking to add webrecorder. It explains what the extension will do and be using in order for it to work.
-![Click add extension](/assets/images/step1-installation/step1-approve_extension.png)<br>
+![Click add extension](/assets/images/installation/approve_extension.png)<br>
 
 3. Chrome Confirmation: Chrome will kindly let you know that the extension has been added to your Chrome.
-![Confirmation of install](/assets/images/step1-installation/step1-confirm_extension.png)
+![Confirmation of install](/assets/images/installation/confirm_extension.png)
 
 
 <hr>

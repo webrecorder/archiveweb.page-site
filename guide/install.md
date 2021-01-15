@@ -15,11 +15,11 @@ Installing archiveweb.page is similar to installation any other Chrome extension
 3. <b>Pin it:</b> to your extensions bar
 
 ## INSTRUCTIONS (WITH IMAGES)
-1. <b>[Find archiveweb.page in the Chrome store](step1-installation/chromestore)</b>
-2. <b>[Add archiveweb.page to your Chrome](step1-installation/add_extension)</b>
-3. <b>[Pin archiveweb.page to your Chrome extensions](step1-installation/pin_extension)</b> 
+1. <b>[Find archiveweb.page in the Chrome store](installation/chromestore)</b>
+2. <b>[Add archiveweb.page to your Chrome](installation/add_extension)</b>
+3. <b>[Pin archiveweb.page to your Chrome extensions](installation/pin_extension)</b> 
 
-![Installation GIF](/assets/images/step1-installation/step1-install.gif)
+![Installation GIF](/assets/images/installation/install.gif)
 
 
 ## TROUBLESHOOTING

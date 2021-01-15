@@ -2,7 +2,7 @@
 layout: page
 title: Specific pages
 nav_order: 2
-parent: Download collections
+parent: Downloading
 ---
 
 # How To Download Specific Pages
@@ -21,10 +21,10 @@ To download the specific pages from your collection, first check off the pages y
 <br>
 
 | Screenshot of the Collection Page for Web Archiving collection |
-|![Download collection](/assets/images/step3-download/download-collection.png)|
+|![Download collection](/assets/images/download/download-collection.png)|
 
 | Screenshot: Check off the pages of your collection that you want |
-|![Download collection](/assets/images/step3-download/download-pages-1.png)|
+|![Download collection](/assets/images/download/download-pages-1.png)|
 
 | Screenshot: Download these pages of your collection as either a WARC or WACZ |
-|![Download collection](/assets/images/step3-download/download-pages-2.png)|
+|![Download collection](/assets/images/download/download-pages-2.png)|

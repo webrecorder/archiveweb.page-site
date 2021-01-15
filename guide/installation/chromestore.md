@@ -13,7 +13,7 @@ This <b><a href="https://chrome.google.com/webstore/detail/webrecorder/fpeoodlll
 <br>
 
 
-![](/assets/images/step1-installation/step1-chromestore.png)
+![](/assets/images/installation/chromestore.png)
 * Make sure it's offered by webrecorder.net
 
 

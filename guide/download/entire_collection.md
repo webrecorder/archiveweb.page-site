@@ -2,7 +2,7 @@
 layout: page
 title: Entire collection
 nav_order: 1
-parent: Download collections
+parent: Downloading
 ---
 # How To Download A Collection
 
@@ -20,7 +20,7 @@ Then there are three quick actions you can do from this page: Download, Record a
 Click on the Download icon to download the entire collection.
 
 | <b> Screenshot: Click on the Download button</b> |
-| ![Download action](/assets/images/step3-download/download-actions.png)|
+| ![Download action](/assets/images/download/download-actions.png)|
 
 
 ### <a id="entire_collection_page"> Download entire collection from a collection page</a>
@@ -39,14 +39,14 @@ To download the entire collection, choose if you want to download your archive a
 <br>
 
 | Screenshot of the Collection Page for Web Archiving collection |
-|![Download collection](/assets/images/step3-download/download-collection.png)|
+|![Download collection](/assets/images/download/download-collection.png)|
 
 
 | Screenshot: Download dropdown and pages tab are circled in red|
-| ![Download collection](/assets/images/step3-download/download-collection-1.png)|
+| ![Download collection](/assets/images/download/download-collection-1.png)|
 
 | Screenshot: Download entire collection as either a WARC or WACZ |
-|![Download collection](/assets/images/step3-download/download-collection-2.png)|
+|![Download collection](/assets/images/download/download-collection-2.png)|
 
 
 

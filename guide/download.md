@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Download collections
-nav_order: 4
+title: Downloading
+nav_order: 5
 has_children: true
 ---
 
@@ -22,12 +22,12 @@ Done capturing and ready to download? You can download your entire collection or
 
 ## INSTRUCTIONS (WITH IMAGES)
 
-### [To Download an entire collection](step3-download/entire_collection)
+### [To Download an entire collection](download/entire_collection)
 
-![Download collection](/assets/images/step3-download/step3-download-option1.gif)
+![Download collection](/assets/images/download/download-option1.gif)
 
-### [To Download specific pages from your collection](step3-download/specific_pages)
+### [To Download specific pages from your collection](download/specific_pages)
 
-![Download collection](/assets/images/step3-download/step3-download-option2.gif)
+![Download collection](/assets/images/download/download-option2.gif)
 
 
