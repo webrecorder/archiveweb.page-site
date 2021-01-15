@@ -5,7 +5,7 @@ nav_order: 7
 permalink: /sharing
 ---
 
-# Sharing Web Archiving via Peer-to-Peer Networks
+# Sharing Web Archives via Peer-to-Peer Networks
 
 What if there was a way to quickly share an archived page or even a small collection with others, without having to download the WACZ, upload it, etc...
 
@@ -62,15 +62,18 @@ To create a persistent backup of an archive, an outside 'pinning' service is rec
 
 ## Troubleshooting
 
+Loading via peer-to-peer network has its tradeoffs, including that it may be slower than loading from a web server. When loading a shareable IPFS URL in ReplayWeb.page, it may take several few seconds or even minutes to load the web archive, as it must connect to an intermediary IPFS node, and then to the machine hosting the extension.
+
 As this feature is experimental, it may not always work. One source of errors is if the connection to the IPFS network is disrupted.
 
 ArchiveWeb.page will attempt to reconnect if it can.
+
 
 - If a previously shared archive is no longer accessible via the shareable link, you can try to stop sharing and reshare again.
 
 - If sharing is failing to start, you may disable and reenable the extension, or restart the browser.
 
-We hope to address these issues in future updates
+We hope to address these issues in future updates.
 
 
 
