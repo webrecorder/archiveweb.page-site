@@ -6,7 +6,13 @@ has_children: true
 ---
 
 # How To Download Your Web Archives
-Done capturing and ready to download? You can download your entire collection or specific pages from the collection. You can decide how you want to download all of it. Choose between a WARC file or a WACZ zipped format, which makes sharing and transferring web archives easier.
+Done capturing and ready to download? You can download your entire collection or specific pages from the collection. You can decide how you want to download all of it. Choose between a WARC file or the WACZ zipped format, which makes sharing and transferring web archives easier.
+
+The WACZ format contains the WARC files and additional metadata and is the recommended download format.
+Using the WACZ format will allow your archives to load quickly using [ReplayWeb.page](https://replayweb.page)
+
+[Learn more about the WACZ Format](https://github.com/webrecorder/wacz-format){:target=_blank}
+
 
 ## QUICK INSTRUCTIONS
 ### To Download an entire collection

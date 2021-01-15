@@ -24,7 +24,7 @@ All archived data is organized by pages. You can further organize your archived 
 
 
 ## TROUBLESHOOTING
-Sometimes capture won't go according to plan. That's OK! The Internet is hard to archive. Check out our [troubleshooting page](../troubleshooting) where we list out common errors and issues with web archiving. If you still need help, [contact us](../contact).
+Sometimes capture won't go according to plan. That's OK! The Internet is hard to archive. Check out our [troubleshooting page](troubleshooting) where we list out common errors and issues with web archiving. If you still need help, [contact us](contact).
 
 ## DETAILED INSTRUCTIONS (WITH IMAGES)
 

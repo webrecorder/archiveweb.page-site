@@ -42,7 +42,7 @@ Use this guide to go over the following:
         Help! I have an error!
     </summary>
       <p>
-       Start with installation section of the instructions.
+       See the <a href="troubleshooting/errors">common errors</a> to see if your issue is listed there, or <a href="contact">contact us</a> if it is not.
       </p>
   </details>
 
