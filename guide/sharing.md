@@ -2,7 +2,7 @@
 layout: page
 title: Sharing archives
 nav_order: 7
-permalink: /sharing
+permalink: /guide/sharing
 ---
 
 # Sharing Web Archives via Peer-to-Peer Networks
