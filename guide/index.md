@@ -15,7 +15,7 @@ Welcome to this instructional guide on how to use Webrecorder's archiveweb.page 
 Use this guide to go over the following:
 * Installing archiveweb.page
 * Capturing websites using archiveweb.page
-* Downloading your colletions from archiveweb.page
+* Downloading your collections from archiveweb.page
 * Sharing your collections from archiveweb.page
 
 ## Where do I start?
