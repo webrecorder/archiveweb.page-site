@@ -91,9 +91,8 @@
         font-size: 18px;
       }
 
-      .app-coming-soon {
+      .app-avail {
         font-size: 18px;
-        font-style: italic;
       }
 
       .heading {
@@ -121,6 +120,12 @@
         margin-top: 1em;
         display: flex;
         flex-direction: column;
+      }
+
+      .no-dec {
+        text-decoration: none !important;
+        font-weight: normal !important;
+        font-style: italic;
       }
 
       .option-list {
@@ -162,7 +167,7 @@
             <div class="message ext-needed is-info" style="display: none">
               <div class="message-body">
                 <i class="fab fa-chrome"></i>
-                <i class="fas fa-download"></i>
+                <i class="fa fa-download"></i>
                 <a href="https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd">
                 Install Extension from Chrome Web Store</a>
               </div>
@@ -170,7 +175,7 @@
 
             <div class="message ext-installed is-primary" style="display: none">
               <div class="message-body">
-                <i class="fas fa-check-circle"></i>&nbsp;ArchiveWeb.page Extension Installed
+                <i class="fas fa-check-circle"></i>&nbsp;ArchiveWeb.page Extension <a class="no-dec" target="_blank" href="https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd">Installed</a>
                 <p><a href="chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html">Browse Web Archives stored in this browser.</a></p>
               </div>
             </div>
@@ -182,9 +187,10 @@
                </div>
             </div>
 
-            <div class="message app-coming-soon">
+            <div class="message app-avail is-info">
               <div class="message-body">
-                ArchiveWeb.page Downloadable App -- Coming Soon. Please check back for more info!
+                <i class="fas fa-download"></i>
+                <a href="https://github.com/webrecorder/archiveweb.page/releases/latest">ArchiveWeb.page Desktop App</a> <i>Beta version available for download!</i>
                </div>
             </div>
 
