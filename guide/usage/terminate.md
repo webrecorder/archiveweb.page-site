@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terminate Capture Session
-nav_order: 3
+nav_order: 4
 parent: Creating Web Archives
 ---
 
@@ -26,19 +26,19 @@ The same way you clicked on the archiveweb.page icon extension to click the star
 1. Click on the ArchiveWeb.page Chrome extension
 2. Click on STOP
 <br>
-![webrecorder banner](/assets/images/usage/terminate-session.png)
+![webrecorder banner](/assets/images/usage/webrecorder-terminate-v0.6.0.png)
 
-*Note: the banner will still remain in Chrome, even after recording has stopped. This is by design in Chrome for security reasons*
-
-
-### Next Steps -- Browse or Archive again
-
-After recorded has stopped, the extension popup will look as follows:
-
-![stopped banner](/assets/images/usage/stopped-session.png)
+*Note: the banner will still remain in Chrome, even after recording has stopped. This is by design in Chrome for security reasons. This might change in the future so just keep an eye out.*
 
 
-The extension will maintain the stats recorded on this tab.
+### I'm done. Now what? -- Browse or Archive 
+
+After recording has stopped, the extension pop-up will look as follows (or something like it ideally). You'll have the ability to <i>View Recorded Page</i> after the capture.
+
+![Screenshot of archiveweb.page extension interface over the webrecorder website.](/assets/images/usage/webrecorder-terminate-v0.6.0-1.png)
+
+
+The extension will maintain the stats recorded on this tab. So "Size Stored", "Size Loadaed", "Pages", "URLS" will be different and reflect the website you just archived.
 
 
 From here you can:
@@ -52,3 +52,4 @@ From here you can:
 - Click **START** to start archiving anew. (This will cause the page to reload).
 
 
+[Manage your archives >](/guide/managing)
