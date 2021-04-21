@@ -6,12 +6,13 @@ permalink: /guide/features/autopilot
 parent: Tool Features
 ---
 
-# Using Autopilot
-You might have noticed that scrolling infinitely is a chore. 
+# Starting Autopilot
+
+You might have noticed that scrolling infinitely, especially on social media sites, can be a chore.
 <br>
 <br>
-To make some parts a less manual process, we've included autopilot to help you scroll and automate certain behaviors on certain sites such as Twitter and Instagram!
-With the last update (0.6.1), you should see a new feature: <b>Start with Autopilot</b>
+To make some parts a less manual process, we've included autopilot to help you scroll and automate certain behaviors on certain sites such as Twitter, Instagram and Facebook!
+With the last version of ArchiveWeb.page, you should see a new feature: <b>Start with Autopilot</b>
 <br>
 <br>
 
@@ -37,5 +38,24 @@ Did you start a capture and realized you actually want to use the Autopilot feat
 #### GIF: Clicking Start Autopilot
 ![GIF of archiveweb.page being used on the webrecorder twitter page.](/assets/images/features/archivewebpage-after-v0.6.1.gif)
 
+
+## What is Autopilot Supported to do on a given page?
+
+For more info on available behaviors, what they're supposed to do, and their current status, see the [Behaviors Overview and Status](./behaviors) page.
+
+This page describes the current behaviors in ArchiveWeb.page and if their last known status (within the last day).
+
 ## Troubleshooting
-This is still fairly new and we're working out some behaviors so if you find a bug or have questions, contact us via email us at <info@webrecorder.net> or write to the <a href="https://forum.webrecorder.net/" target="_blank"><b>forum</b></a>.  
+
+This is still fairly new and behaviors are not always guaranteed to work as expected.
+
+For this reason, we [track the status of each behavior](./behaviors) daily to ensure that they continue to work.
+
+If a behavior tests are failing, we are likely aware of the issue and are looking at it.
+
+If a behavior is not working as expected, or you find a bug or have questions, feel free to [open an issue on GitHub for behaviors](https://github.com/webrecorder/browsertrix-behaviors/issues), ask on the <a href="https://forum.webrecorder.net/" target="_blank"><b>forum</b></a>
+or contact us via email us at <info@webrecorder.net>.
+
+If you'd like to request a new behavior, please do so by first opening a GitHub issue.
+
+

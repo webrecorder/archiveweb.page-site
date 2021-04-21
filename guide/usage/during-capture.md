@@ -7,6 +7,8 @@ parent: Creating Web Archives
 
 # What Happens During A Capture Session
 
+| Quick Links: Looking for [Autopilot Behavior Overview and Status?](../features/behaviors) |
+
 ## The Banner
 
 During a capture session, a banner will appear and state, "Webrecorder ArchiveWeb.page started debugging this browser". This banner should be present at all times during your web archiving process. No banner means the archiveweb.page extension is not capturing. 
@@ -22,7 +24,8 @@ At the same time as the banner appears, archiveweb.page extension will give you 
 * Yellow will say "# URLs pending, please wait before loading a new page" which means "Currently debugging and capturing the assets on this specific page. Give me a moment to capture everything please"
 
 ## [Autopilot](/guide/features/autopilot)
-The latest version (0.6.0) includes autopilot. This means archiveweb.page will scroll for you! This will honestly work best with platforms like Twitter or Instagram. It'll run on other static or dynamic websites, but the autoscroll might be too much for <i>regular</i> sites. For more info, go to [autopilot section](/guide/features/autopilot) of the guide.
+The latest version includes the new Automated page behavior and scrolling system, or Autopilot! This means archiveweb.page will scroll or interact with certain complex sites for you! The system is designed to run on a single page and currently aimed at social media sites or sites with infinite scroll. 
+For more info, see the [Autopilot](/guide/features/autopilot) and [Behaviors Overview and Status](/guide/features/behaviors) sections of this guide.
 
 ## Instant Replay
 
