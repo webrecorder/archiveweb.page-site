@@ -1,0 +1,101 @@
+
+    .main .title {
+        display: flex;
+        align-items: center;
+      }
+  
+      .logo {
+        width: 48px;
+        height: 48px;
+      }
+  
+      .awp-logo-font {
+        font-variant-caps: all-small-caps;
+        font-size: 32px;
+        font-weight: bold;
+      }
+  
+      .awp-purple {
+        color: #8878c3;
+      }
+  
+      .awp-blue {
+        color: #4876ff;
+      }
+  
+      .main  {
+        background-color: #ddd;
+        border-radius: 8px;
+        padding: 2rem;
+      }
+  
+      .container {
+        margin-top: 3rem;
+      }
+  
+      .message {
+        margin-left: 20%;
+      }
+  
+      .ext-needed {
+        font-size: 24px;
+        font-weight: bold;
+      }
+  
+      .ext-installed {
+        font-size: 18px;
+      }
+  
+      .ext-installed a {
+        font-weight: bold;
+      }
+  
+      .ext-not-avail {
+        font-size: 18px;
+      }
+  
+      .app-avail {
+        font-size: 18px;
+      }
+  
+      .heading {
+        background-color: white;
+        padding: 2rem;
+      }
+  
+      .card-content {
+        font-size: 14px;
+      }
+  
+      .card-content p {
+        margin-top: 1em;
+      }
+  
+      .card-content .guide {
+        font-size: 18px;
+        font-weight: bold;
+        display: flex;
+        justify-content: space-between;
+      }
+  
+      .source {
+        font-size: 16px;
+        margin-top: 1em;
+        display: flex;
+        flex-direction: column;
+      }
+  
+      .no-dec {
+        text-decoration: none !important;
+        font-weight: normal !important;
+        font-style: italic;
+      }
+  
+      .option-list {
+        margin-top: 2rem;
+        z-index: 100;
+      }
+  
+      table {
+          width: 100%;
+        }

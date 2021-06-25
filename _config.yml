@@ -16,3 +16,18 @@ aux_links:
 
 logo: "/assets/images/awp-logo.svg"
 
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "en"
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+  - scope:
+      path: "es"
+    values:
+      lang: "es"
+
