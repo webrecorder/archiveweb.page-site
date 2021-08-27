@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instalar archiveweb.page
+title: Instalar Archiveweb.page
 parent: Guía de Archiveweb.page
 nav_order: 1
 has_children: true
@@ -11,7 +11,7 @@ Instalar archiveweb.page es similar a la instalación de cualquier otra extensi�
 
 ## Instrucciones rápidas 
 1. Encuéntrala: puedes encontrar las extensiones <a href="https://chrome.google.com/webstore/detail/webrecorder/fpeoodllldobpkbkabpblcfaogecpndd" target="_blank">aquí</a>
-2.Añádela: haz clic en el botón de Añadir a Chrome y acepta.
+2. Añádela: haz clic en el botón de Añadir a Chrome y acepta.
 3. Fijarla: a tu barra de extensiones. 
 
 ## Instrucciones (con imágenes)
@@ -22,5 +22,5 @@ Instalar archiveweb.page es similar a la instalación de cualquier otra extensi�
 ![Installation GIF](/assets/images/installation/install.gif)
 
 
-## TROUBLESHOOTING
+## Diagnosticar problemas
 Algunas veces la instalación no funciona de acuerdo con el plan. ¡Está bien! Revisa nuestra [página de solución de problemas](troubleshooting) donde listamos errores comunes y problemas con el archivo web. Si aún así necesitas ayuda, [contáctanos]().
