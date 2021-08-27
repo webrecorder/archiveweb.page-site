@@ -4,6 +4,33 @@ author: Paula Hervert
 lang: es
 permalink: es
 ---
+---
+<!-- SCRIPT -->
+  <script>
+    (async function() {
+      var extShow = ".ext-not-avail";
+
+      if (window.chrome) {
+        extShow = ".ext-needed";
+        try {
+          const res = await fetch("chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html");
+          if (res.status === 200) {
+            extShow = ".ext-installed";
+          }
+        } catch (e) {
+        }
+      }
+
+      if (document.readyState === "complete") {
+        document.querySelector(extShow).style.display = "";
+      } else {
+        window.addEventListener("load", () => {
+          document.querySelector(extShow).style.display = "";
+        });
+      }
+    })();
+  </script>
+<!-- END OF SCRIPT -->
 
 <div class="container">
     <section class="main">
@@ -48,7 +75,7 @@ permalink: es
   
           <div class="message ext-installed is-primary" style="display: none">
             <div class="message-body">
-              <i class="fas fa-check-circle"></i>&nbsp;La extensión ArchiveWeb.page<a class="no-dec" target="_blank" href="https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd">Installed</a>
+              <i class="fas fa-check-circle"></i>&nbsp;La extensión ArchiveWeb.page ya está instalada. <a class="no-dec" target="_blank" href="https://chrome.google.com/webstore/detail/webrecorder-archivewebpag/fpeoodllldobpkbkabpblcfaogecpndd"> </a> 
               <p><a href="chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html">Ve tus archivos guardados en el navegador.</a></p>
             </div>
           </div>

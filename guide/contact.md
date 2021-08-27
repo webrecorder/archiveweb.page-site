@@ -1,7 +1,12 @@
 ---
 layout: page
 title: Contact
+<<<<<<< Updated upstream:guide/contact.md
 nav_order: 8
+=======
+nav_order: 7
+parent: Guide to Archiveweb.page
+>>>>>>> Stashed changes:_en/contact.md
 ---
 
 # CONTACT US

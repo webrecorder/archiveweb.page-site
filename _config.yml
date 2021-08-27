@@ -11,7 +11,7 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Back to ArchiveWeb.page":
+  "⌂ ArchiveWeb.page":
     - "/"
 
 logo: "/assets/images/awp-logo.svg"
