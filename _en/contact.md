@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Contact
-nav_order: 2
+parent: Guide to Archiveweb.page
+nav_order: 7
 ---
 
 # CONTACT US
