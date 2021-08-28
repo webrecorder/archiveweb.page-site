@@ -16,9 +16,9 @@ To browse archives, you can quickly open the extension in several ways:
 
   ![home icon view](/assets/images/managing/home-icon-view.png)
 
-- You can also right click and select *View Web Archives* from the context menu:
+<!-- - You can also right click and select *View Web Archives* from the context menu:
 
-  ![menu-view-archives](/assets/images/managing/menu-view-archives.png)
+  ![menu-view-archives](/assets/images/managing/menu-view-archives.png) -->
 
 - From the ArchiveWeb.page site, clicking on *Browse Web Archives stored in this browser*.
 
