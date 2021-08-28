@@ -16,3 +16,21 @@ aux_links:
 
 logo: "/assets/images/awp-logo.svg"
 
+#FOR TRANSLATION
+collections:
+  en:
+    permalink: "/:collection/:path/"
+    output: true
+  es:
+    permalink: "/:collection/:path/"
+    output: true
+    
+just_the_docs:
+  collections:
+    en:
+      name: English
+    es:
+      name: Español
+    # fr:
+    #   name: Français
+
