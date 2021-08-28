@@ -16,6 +16,7 @@ nav_order: 1
 ### <a id="entire_collection_listing"> Download entire collection from the archive collections list</a>
 
 From the extension home page, all your web archive collections will be listed. Each collection will have descriptive information about itself: Title, Date Created, and Total Size. 
+
 Then there are three quick actions you can do from this page: Download, Record a new site, and share (via IPFS).
 
 Click on the Download icon to download the entire collection.
