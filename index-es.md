@@ -31,7 +31,7 @@ permalink: es
 
             </p>
             <p class="guide">
-              <a href="/guía/"><i class="fas fa-book"></i>&nbsp;Revisa la Guía de Usuario de ArchiveWeb.page</a>
+              <a href="/guía"><i class="fas fa-book"></i>&nbsp;Revisa la Guía de Usuario de ArchiveWeb.page</a>
             </p>
           </div>
         </article>
