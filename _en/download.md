@@ -14,7 +14,6 @@ Using the WACZ format will allow your archives to load quickly using [ReplayWeb.
 
 <a href="https://github.com/webrecorder/wacz-format" target="_blank">Learn more about the WACZ Format</a>
 
-
 ## QUICK INSTRUCTIONS
 ### To Download an entire collection
 1. Click the <b>Download Icon</b> under Actions

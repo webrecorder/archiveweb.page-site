@@ -59,5 +59,3 @@ Si una prueba de comportamiento falla, es probable que estemos al tanto del prob
 Si un comportamiento no funciona como se esperaba, o si encuentras un error o tienes preguntas, no dudes en abrir un problema en GitHub sobre comportamientos, pregunta en el foro o contáctanos por correo electrónico a info@webrecorder.net.
 
 Si deseas solicitar un nuevo comportamiento, hazlo abriendo primero un problema de GitHub.
-
-

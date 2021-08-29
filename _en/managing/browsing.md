@@ -20,6 +20,7 @@ To browse archives, you can quickly open the extension in several ways:
 
   ![menu-view-archives](/assets/images/managing/menu-view-archives.png) -->
 
+
 - From the ArchiveWeb.page site, clicking on *Browse Web Archives stored in this browser*.
 
 

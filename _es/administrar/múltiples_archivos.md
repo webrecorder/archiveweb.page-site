@@ -6,6 +6,7 @@ grand_parent: Guía de Archiveweb.page
 nav_order: 2
 ---
 
+
 ArchiveWeb.page ayuda a organizar tus páginas archivadas en distintas colecciones de archivos web, que pueden ser visualizadas, y descargadas individualmente.
 
 Si bien la unidad más pequeña en ArchiveWeb.page es una página, la colección de archivo, o simplemente el “archivo web” provee otra unidad de organización para páginas. 
@@ -44,7 +45,3 @@ La selección se recuerda para la próxima vez.
 Puede usar esto para elegir un nuevo archivo web predeterminado o crear uno nuevo antes de comenzar la captura. 
 
 Nota que el archivo web no se puede cambiar una vez que ha comenzado la captura. Tendrás que finalizar la sesión y seleccionar otro archivo.
-
-
-
-

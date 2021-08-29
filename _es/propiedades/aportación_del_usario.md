@@ -4,6 +4,7 @@ title: Aportación del Usuario
 parent: Propiedades de la herramienta
 grand_parent: Guía de Archiveweb.page
 nav_order: 3
+
 ---
 
 # Comportamientos del piloto automático
@@ -102,4 +103,5 @@ Los comportamientos se diseñaron inicialmente para [Browsertrix Crawler](https:
 Para obtener más detalles sobre cómo funcionan los comportamientos, consulte [Comportamientos de Browsertrix](https://github.com/webrecorder/browsertrix-behaviors) en GitHub.
 
 Para problemas específicos con cualquiera de estos comportamientos, [abra un *issue*](https://github.com/webrecorder/browsertrix-behaviors/issues) en este repositorio.
+---
 

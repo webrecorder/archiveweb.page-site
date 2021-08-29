@@ -34,3 +34,4 @@ Opción 1: Descargar una colección completa
 
 Opción 2: Descargar páginas específicas de su colección
 ![Download collection](/assets/images/download/download-option2.gif)
+

@@ -61,3 +61,4 @@ ArchiveWeb.page intentará volver a conectarse si puede.
 - Si el uso compartido no se inicia, puede deshabilitar y volver a habilitar la extensión, o reiniciar el navegador.
 
 Esperamos abordar estos problemas en futuras actualizaciones.
+

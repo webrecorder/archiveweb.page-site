@@ -48,3 +48,4 @@ Para descargar la colección completa, elija si desea descargar su archivo como 
 
 | Captura de pantalla: descargue la colección completa como WARC o WACZ |
 |![Download collection](/assets/images/download/download-collection-2.png)|
+

@@ -35,4 +35,3 @@ Por defecto, la colección de *Mi Archivo Web* (My Web Archive) es creada autom�
 
 |También puedes buscar páginas individuales mediante la URL o texto de página.
 ![menu-view-archives](/assets/images/managing/coll-page-search.png)|
-

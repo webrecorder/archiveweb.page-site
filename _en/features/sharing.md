@@ -50,15 +50,18 @@ When an archive is being shared, the sharing menu is available, along with the S
 
 ## How it works / Caveats
 
-The sharing feature should be considered experimental and is not guaranteed to work. The sharing works by generating a WACZ file (same as if the file was downloaded) and then sharing it over the IPFS protocol. Just like downloading, sharing a large collection will take longer than a smaller one since a full WACZ must be generated.
+The sharing feature should be considered experimental and is not guaranteed to work. The sharing works by generating a WACZ file (same as if the file was downloaded)
+and then sharing it over the IPFS protocol. Just like downloading, sharing a large collection will take longer than a smaller one since a full WACZ must be generated.
 
 For sharing to work, your browser and the extension must be open, as the data will be loaded from your machine directly (initially).
 
 The generated file includes timestamps and so sharing the same file multiple times will result in a different IPFS hash. The shared version is a snapshot (much like a downloaded WACZ) and is not automatically updated with the collection. For this reason, the *Reshare Latest* option is available.
 
-ArchiveWeb.page uses IPFS in a custom way to only transmit all data only on-demand. When a user loads the shared ReplayWeb.page IPFS URL, first the page list is loaded, and then only the pages that are browsed are shared. Users browsing the shared archive can choose which pages to browse, and only those pages are then synched over IPFS.
+ArchiveWeb.page uses IPFS in a custom way to only transmit all data only on-demand. When a user loads the shared ReplayWeb.page IPFS URL, first the page list is loaded,
+and then only the pages that are browsed are shared. Users browsing the shared archive can choose which pages to browse, and only those pages are then synched over IPFS.
 
-To create a persistent backup of an archive, an outside 'pinning' service is recommended. Such services can 'pin' the IPFS hash, which can be obtained from *Copy IPFS URL*, and make it available. See [IPFS Docs on persistence and pinning](https://docs.ipfs.io/concepts/persistence/#persistence-versus-permanence) for more info on this.
+To create a persistent backup of an archive, an outside 'pinning' service is recommended. Such services can 'pin' the IPFS hash, which can be obtained from *Copy IPFS URL*, and mke it available. See [IPFS Docs on persistence and pinning](https://docs.ipfs.io/concepts/persistence/#persistence-versus-permanence) for more info on this.
+
 
 ## Troubleshooting
 
