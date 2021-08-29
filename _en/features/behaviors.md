@@ -119,6 +119,7 @@ The behavior should work for both logged in and not-logged view of Twitter. (Bot
 
 These behaviors run in the background, and ensure that any detected videos on a page are automatically loaded, to ensure a complete capture.
 The AutoPlay behavior detects and plays videos loaded in any iframes.
+
 The AutoFetch behavior detects images and styles for different resolutions in the page, and ensures they are fetchced in the background.
 
 The existing tests currently test autoplay and archiving of videos from common video platforms.
