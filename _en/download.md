@@ -12,8 +12,7 @@ Done capturing and ready to download? You can download your entire collection or
 The WACZ format contains the WARC files and additional metadata and is the recommended download format.
 Using the WACZ format will allow your archives to load quickly using [ReplayWeb.page](https://replayweb.page)
 
-[Learn more about the WACZ Format](https://github.com/webrecorder/wacz-format){:target=_blank}
-
+<a href="https://github.com/webrecorder/wacz-format" target="_blank">Learn more about the WACZ Format</a>
 
 ## QUICK INSTRUCTIONS
 ### To Download an entire collection

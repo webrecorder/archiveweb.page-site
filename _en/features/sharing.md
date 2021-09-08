@@ -62,6 +62,7 @@ and then only the pages that are browsed are shared. Users browsing the shared a
 
 To create a persistent backup of an archive, an outside 'pinning' service is recommended. Such services can 'pin' the IPFS hash, which can be obtained from *Copy IPFS URL*, and mke it available. See [IPFS Docs on persistence and pinning](https://docs.ipfs.io/concepts/persistence/#persistence-versus-permanence) for more info on this.
 
+
 ## Troubleshooting
 
 Loading via peer-to-peer network has its tradeoffs, including that it may be slower than loading from a web server. When loading a shareable IPFS URL in ReplayWeb.page, it may take several few seconds or even minutes to load the web archive, as it must connect to an intermediary IPFS node, and then to the machine hosting the extension.
@@ -69,7 +70,6 @@ Loading via peer-to-peer network has its tradeoffs, including that it may be slo
 As this feature is experimental, it may not always work. One source of errors is if the connection to the IPFS network is disrupted.
 
 ArchiveWeb.page will attempt to reconnect if it can.
-
 
 - If a previously shared archive is no longer accessible via the shareable link, you can try to stop sharing and reshare again.
 
