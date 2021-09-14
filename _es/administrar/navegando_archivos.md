@@ -24,6 +24,7 @@ Para buscar archivos puedes abrir rápidamente la extensión de varias maneras:
 ## Página de Inicio de la Extensión / Vista de todos los Archivos 
 
 La página de inicio de la extensión de ArchiveWeb.page lista todas las colecciones de archivos disponibles.
+![menu-view-archives](/assets/images/managing/ext-home-page.png)
 
 Por defecto, la colección de *Mi Archivo Web* (My Web Archive) es creada automáticamente. También puedes crear colecciones adicionales aquí. Véase [Múltiples Archivos](/es/administrar/múltiples_archivos) para más información sobre cómo crear colecciones de archivos web adicionales. 
 
