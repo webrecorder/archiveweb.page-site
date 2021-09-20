@@ -4,6 +4,7 @@ title: Pin Extension
 parent: Install archiveweb.page
 grand_parent: Guide to Archiveweb.page
 nav_order: 4
+redirect_from: /guide/install/pin_extension/
 ---
 
 

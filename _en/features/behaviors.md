@@ -4,6 +4,7 @@ title: Behaviors Overview and Status
 parent: Tool Features
 grand_parent: Guide to Archiveweb.page
 nav_order: 3
+redirect_from: /guide/features/behaviors/
 ---
 
 # Autopilot Behaviors

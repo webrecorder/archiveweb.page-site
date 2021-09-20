@@ -4,6 +4,7 @@ title: Common Errors and Issues
 parent: Troubleshooting
 grand_parent: Guide to Archiveweb.page
 nav_order: 1
+redirect_from: /guide/troubleshooting/errors/
 ---
 
 ## Common Errors and Issues

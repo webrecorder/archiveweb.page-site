@@ -4,6 +4,7 @@ title: Initiate Session
 parent: Create Web Archives
 grand_parent: Guide to Archiveweb.page
 nav_order: 2
+redirect_from: /guide/usage/initiate/
 ---
 
 # How To Initiate A Capture Session

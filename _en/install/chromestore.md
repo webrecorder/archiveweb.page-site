@@ -4,6 +4,7 @@ title: Find in Chrome store
 parent: Install archiveweb.page
 grand_parent: Guide to Archiveweb.page
 nav_order: 2
+redirect_from: /guide/install/chromestore/
 ---
 
 ### Finding the extension in Chrome Store

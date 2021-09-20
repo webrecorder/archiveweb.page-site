@@ -4,6 +4,7 @@ title: Web Object Encapsulation Complexity
 nav_order: 2
 parent: Troubleshooting
 permalink: /troubleshooting/encapsulation_complexity
+redirect_from: /guide/troubleshooting/web_encapsulation/
 --- -->
 
 ## [Web Object Encapsulation Complexity](https://webrecorder.net/2020/11/09/encapsulation-complexity.html)

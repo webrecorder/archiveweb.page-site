@@ -4,6 +4,7 @@ title: Manage Web Archives
 parent: Guide to Archiveweb.page
 nav_order: 3
 has_children: true
+redirect_from: /guide/manage/
 ---
 
 # Managing Web Archives

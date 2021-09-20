@@ -4,6 +4,7 @@ title: Browsing
 parent: Manage Web Archives
 grand_parent: Guide to Archiveweb.page
 nav_order: 1
+redirect_from: /guide/managing/browsing/
 ---
 
 ## Browsing Archives in ArchiveWeb.page

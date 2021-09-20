@@ -4,6 +4,7 @@ title: Specific pages
 parent: Download Web Archives
 grand_parent: Guide to Archiveweb.page
 nav_order: 2
+redirect_from: /guide/download/specific_pages/
 ---
 
 # How To Download Specific Pages

@@ -4,6 +4,7 @@ title: Add to your Chrome
 parent: Install archiveweb.page
 grand_parent: Guide to Archiveweb.page
 nav_order: 3
+redirect_from: /guide/install/add_extension/
 ---
 
 ### Adding archiveweb.page to your Chrome

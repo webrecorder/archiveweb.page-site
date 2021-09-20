@@ -4,6 +4,7 @@ title: Troubleshooting
 parent: Guide to Archiveweb.page
 nav_order: 5
 has_children: true
+redirect_from: /guide/troubleshooting/
 ---
 
 ## [Common Errors and Issues](troubleshooting/errors)

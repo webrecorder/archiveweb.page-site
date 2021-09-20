@@ -4,6 +4,7 @@ title:  Capture Session
 parent: Create Web Archives
 grand_parent: Guide to Archiveweb.page
 nav_order: 3
+redirect_from: /guide/usage/capture/
 ---
 
 # What Happens During A Capture Session

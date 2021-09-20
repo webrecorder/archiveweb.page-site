@@ -3,6 +3,7 @@ layout: page
 title: FAQs and Examples
 nav_order: 7
 permalink: /examples
+redirect_from: /guide/examples/
 --- -->
 
 # FREQUENTLY ASKED QUESTIONS 

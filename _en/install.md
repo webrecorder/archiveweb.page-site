@@ -4,6 +4,7 @@ title: Install archiveweb.page
 parent: Guide to Archiveweb.page
 nav_order: 1
 has_children: true
+redirect_from: /guide/install/
 ---
 
 # How To Install archiveweb.page

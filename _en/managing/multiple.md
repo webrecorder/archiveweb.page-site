@@ -4,6 +4,7 @@ title: Multiple Archives
 parent: Manage Web Archives
 grand_parent: Guide to Archiveweb.page
 nav_order: 2
+redirect_from: /guide/managing/multiple/
 ---
 
 ArchiveWeb.page supports organizing your archived pages into distinct web archival collections, which can be viewed, searched, and downloaded separately.

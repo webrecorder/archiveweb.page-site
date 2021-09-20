@@ -6,7 +6,7 @@ description: "User Guide for archiveweb.page"
 nav_order: 1
 has_children: true
 permalink: /guide
-
+redirect_from: /guide/welcome/
 ---
 
 # USER GUIDE: ARCHIVEWEB.PAGE EXTENSION

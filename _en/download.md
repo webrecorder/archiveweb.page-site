@@ -4,6 +4,7 @@ title: Download Web Archives
 parent: Guide to Archiveweb.page
 nav_order: 4
 has_children: true
+redirect_from: /guide/download/
 ---
 
 # How To Download Your Web Archives

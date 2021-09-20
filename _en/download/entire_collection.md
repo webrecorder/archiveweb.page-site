@@ -4,6 +4,7 @@ title: Entire collection
 parent: Download Web Archives
 grand_parent: Guide to Archiveweb.page
 nav_order: 1
+redirect_from: /guide/download/entire_collection/
 ---
 # How To Download A Collection
 

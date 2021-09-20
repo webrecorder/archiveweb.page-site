@@ -4,6 +4,7 @@ title: Autopilot
 parent: Tool Features
 grand_parent: Guide to Archiveweb.page
 nav_order: 2
+redirect_from: /guide/features/autopilot/
 ---
 
 # Starting Autopilot

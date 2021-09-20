@@ -4,6 +4,7 @@ title: Create Web Archives
 parent: Guide to Archiveweb.page
 nav_order: 2
 has_children: true
+redirect_from: /guide/usage/
 ---
 
 # How To Create Web Archives with ArchiveWeb.page

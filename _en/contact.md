@@ -3,6 +3,7 @@ layout: page
 title: Contact
 parent: Guide to Archiveweb.page
 nav_order: 7
+redirect_from: /guide/contact/
 ---
 
 # CONTACT US

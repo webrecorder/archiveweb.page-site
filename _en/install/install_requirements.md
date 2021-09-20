@@ -4,6 +4,7 @@ title: Installation Requirements
 parent: Install archiveweb.page
 grand_parent: Guide to Archiveweb.page
 nav_order: 1
+redirect_from: /guide/install/install_requirements/
 ---
 
 ### Installation Requirements

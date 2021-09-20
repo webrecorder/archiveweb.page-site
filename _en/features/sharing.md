@@ -4,7 +4,7 @@ title: Sharing archives
 parent: Tool Features
 grand_parent: Guide to Archiveweb.page
 nav_order: 1
-
+redirect_from: /guide/features/sharing/
 ---
 
 # Sharing Web Archives via Peer-to-Peer Networks
