@@ -32,6 +32,11 @@ Unfortunately, this is a [known bug in Chromium](https://bugs.chromium.org/p/chr
 
 We hope it is fixed soon!
 
+### Pages with PDFs extensions.
+
+*Error Details: Cannot access a chrome-extension:// URL of different extension*
+
+If it happens on a PDF page, its a known issue caused by the latest versions of Chrome. When the page loads an extension, for example - a PDF viewer extension, it'll break the archiving of PDFs in archiveweb.page due to security settings. If it happens on other pages, users can try disabling their other extensions, but the error basically won't allow one to record if there's another extension involved, and the PDF viewer is itself another extension. Unfortunately there's nothing we can do at the moment.
 
 ## Have another error or issue?
 Since ArchiveWeb.page is still new, we'll need your help with what we should troubleshoot! Please [contact us](/contact) and ask us questions and show us examples.
