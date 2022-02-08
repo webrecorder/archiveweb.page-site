@@ -7,7 +7,7 @@ has_children: true
 redirect_from: /guide/troubleshooting/
 ---
 
-## [Common Errors and Issues](troubleshooting/errors)
+## [Common Errors and Issues](errors)
 This section will be dedicated to common errors and issues that we've encountered during web archiving.
 
 
