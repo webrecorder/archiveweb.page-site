@@ -33,4 +33,4 @@ If it happens on a PDF page, its a known issue caused by the latest versions of 
 In the meantime, you should be able to archive PDFs using the [ArchiveWeb.page Desktop App](https://github.com/webrecorder/archiveweb.page/releases/latest)
 
 ## Have another error or issue?
-Since ArchiveWeb.page is still new, we'll need your help with what we should troubleshoot! Please [contact us](/contact) and ask us questions and show us examples.
+Since ArchiveWeb.page is still new, we'll need your help with what we should troubleshoot! Please [contact us](/guide/contact) and ask us questions and show us examples.

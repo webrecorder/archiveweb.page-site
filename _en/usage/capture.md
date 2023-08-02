@@ -9,7 +9,7 @@ redirect_from: /guide/usage/capture/
 
 # What Happens During A Capture Session
 
-| Quick Links: Looking for [Autopilot Behavior Overview and Status?](../features/behaviors) |
+| Quick Links: Looking for [Autopilot Behavior Overview and Status?](/guide/features/behaviors) |
 
 ## The Banner
 
@@ -37,4 +37,4 @@ These options will also be available after the archiving has been stopped.
 
 ---
 
-[Continue to Terminate Session >](./terminate.md)
+[Continue to Terminate Session >](/guide/usage/terminate)

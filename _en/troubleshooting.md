@@ -12,4 +12,4 @@ This section will be dedicated to common errors and issues that we've encountere
 
 
 ## Have another error or issue?
-Since we just launched, we'll need your help with what we should troubleshoot! Please [contact us](contact) and ask us questions and show us examples.
+Since we just launched, we'll need your help with what we should troubleshoot! Please [contact us](../contact) and ask us questions and show us examples.

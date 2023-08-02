@@ -54,4 +54,4 @@ From here you can:
 - Click **START** to start archiving anew. (This will cause the page to reload).
 
 
-[Manage your archives >](/guide/managing)
+[Manage your archives >](../../manage)

@@ -69,6 +69,6 @@ For a breakdown on how to capture using archiveweb.page, go to the [During Captu
 |![Screenshot of archiveweb.page's web archives page with the recording interface showing the collection, webrecorder, the URL http://webrecorder.net, and the GO button highlighted in blue,](/assets/images/usage/webrecorder-initiate-v0.6.0-collection-3.png)|
 
 |<b>Click on assets (videos, links, pages, etc) that you want archived </b> <br>
-For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](./capture) section of this user guide. If you're archiving sites that have <i>infinite scroll</i>, or social media sites like Twitter, Instagram or Facebook, you can try using the new [Autopilot feature](../features/autopilot)|
+For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](/guide/usage/capture) section of this user guide. If you're archiving sites that have <i>infinite scroll</i>, or social media sites like Twitter, Instagram or Facebook, you can try using the new [Autopilot feature](/guide/features/autopilot)|
 
-[Continue to Capture Session >](./during-capture.md)
+[Continue to Capture Session >](/guide/usage/capture)
