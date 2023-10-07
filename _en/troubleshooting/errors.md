@@ -11,6 +11,16 @@ redirect_from: /guide/troubleshooting/errors/
 
 The following are known recording issues in the extension and possible workarounds. The error details are shown on the ArchiveWeb.page popup when attempting to record.
 
+### Conflicts with Other Extensions
+
+*Error Details: Cannot access a chrome-extension:// URL of different extension*
+
+This usually happens when other extensions insert content into the page. Due to Chrome security restrictions, ArchiveWeb.page can't archive
+content that's inserted by other extensions, and that results in this error.
+
+As a workaround, try disabling all other extensions or create a browser profile without any other extensions installed, and then try again.
+
+
 ### Pages with YouTube Videos.
 
 *Error Details: Cannot attach to this target*
