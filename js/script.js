@@ -5,7 +5,7 @@
         if (window.chrome) {
           extShow = ".ext-needed";
           try {
-            const res = await fetch("chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/replay/index.html");
+            const res = await fetch("chrome-extension://fpeoodllldobpkbkabpblcfaogecpndd/ruffle/ruffle.js");
             if (res.status === 200) {
               extShow = ".ext-installed";
             }
