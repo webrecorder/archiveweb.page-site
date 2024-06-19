@@ -15,7 +15,7 @@ aux_links:
   "Back to ArchiveWeb.page":
     - "/"
 
-logo: "/assets/images/awp-logo.svg"
+logo: "/assets/brand/archivewebpage-icon-color.svg"
 
 #FOR TRANSLATION
 collections:
@@ -34,4 +34,3 @@ just_the_docs:
       name: Español
     # fr:
     #   name: Français
-
