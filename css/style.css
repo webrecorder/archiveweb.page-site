@@ -5,8 +5,7 @@
       }
   
       .logo {
-        width: 48px;
-        height: 48px;
+        height: 4rem;
       }
   
       .awp-logo-font {
@@ -34,7 +33,6 @@
       }
   
       .message {
-        margin-left: 20%;
       }
   
       .ext-needed {
