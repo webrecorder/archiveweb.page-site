@@ -15,9 +15,9 @@ Instalar archiveweb.page es similar a la instalación de cualquier otra extensi�
 3. Fijarla: a tu barra de extensiones. 
 
 ## Instrucciones (con imágenes)
-1. <b>[Encuentra archiveweb.page en la Chrome store.](/chrome)</b>
-2. <b>[Añadir archiveweb.page a tu Chrome]()</b>
-3. <b>[Fijar archiveweb.page a tus extensiones de Chrome](installation/pin_extension)</b> 
+1. <b>[Encuentra archiveweb.page en la Chrome store.](instalación/chromestore)</b>
+2. <b>[Añadir archiveweb.page a tu Chrome](instalación/agregar_extensión)</b>
+3. <b>[Fijar archiveweb.page a tus extensiones de Chrome](instalación/fijar_extensión)</b> 
 
 ![Installation GIF](/assets/images/installation/install.gif)
 
