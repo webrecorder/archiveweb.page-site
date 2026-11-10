@@ -24,7 +24,7 @@ The extension has been tested with:
 
 However, as these browsers are regularly updated, the extension may need to be updated as well.
 
-If you're noticing changes or errors with a particular browser version, [let us know](../contact).<br>
+If you're noticing changes or errors with a particular browser version, [let us know](../../contact).<br>
 
 When in doubt, [try the latest version of Chrome](https://www.google.com/chrome/) first.
 
