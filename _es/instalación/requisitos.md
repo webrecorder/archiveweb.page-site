@@ -23,7 +23,7 @@ La extensión ha sido probada con:
 
 Sin embargo, como los navegadores son constantemente actualizados, la extensión puede llegar a necesitar que se actualice también.
 
-Si notas cambios o errores con alguna versión para un navegador en particular, [háznoslo saber](../contacto).
+Si notas cambios o errores con alguna versión para un navegador en particular, [háznoslo saber](../../contacto).
 
 Si tienes alguna duda, [prueba la versión más reciente de Chrome](https://www.google.com/chrome/) primero.
 

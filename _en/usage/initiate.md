@@ -39,7 +39,7 @@ After creating (or choosing) a web archive, there are two ways you can initiate 
 |![Screenshot of the webrecorder website with the start button circled red](/assets/images/usage/webrecorder-initiate-v0.6.0-webpage-2.png)|
 
 | <b>Click on assets (videos, links, pages, etc) that you want archived </b><br>
-For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](./capture) section of this user guide. If you're archiving sites that have <i>infinite scroll</i> especially social media sites like Twitter, Instagram or Facebook, you can try using the [Autopilot feature](/guide/features/autopilot.md)|
+For a breakdown on how to capture using archiveweb.page, go to the [During Capture Session](../capture) section of this user guide. If you're archiving sites that have <i>infinite scroll</i> especially social media sites like Twitter, Instagram or Facebook, you can try using the [Autopilot feature](/guide/features/autopilot)|
 
 
 ## <a id="from_collection"> Capture from archiveweb.page site </a>

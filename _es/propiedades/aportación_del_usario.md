@@ -88,7 +88,7 @@ El comportamiento debería funcionar tanto para la vista con sesión iniciada co
 ## Reproducción automática y Búsqueda automática
 
 |:-------|:-------|
-| Estatus | [![Autoplay Behavior: Youtube](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/youtube-autoplay.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/youtube-autoplay.yaml) <br> [![Autoplay Behavior: Vimeo](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/vimeo-autoplay.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/vimeo-autoplay.yaml) |
+| Estatus | [![Autoplay Behavior: Youtube](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-youtube.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-youtube.yaml) <br> [![Autoplay Behavior: Vimeo](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-vimeo.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-vimeo.yaml) |
 | Multilingual | Yes |
 | ¿Inciar Sesión? (Login) | No |
 

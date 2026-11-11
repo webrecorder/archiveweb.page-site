@@ -29,11 +29,11 @@ Using the WACZ format will allow your archives to load quickly using [ReplayWeb.
 
 ## INSTRUCTIONS (WITH IMAGES)
 
-### [To Download an entire collection](download/entire_collection)
+### [To Download an entire collection](../download/entire_collection)
 
 ![Download collection](/assets/images/download/download-option1.gif)
 
-### [To Download specific pages from your collection](download/specific_pages)
+### [To Download specific pages from your collection](../download/specific_pages)
 
 ![Download collection](/assets/images/download/download-option2.gif)
 

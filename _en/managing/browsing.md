@@ -34,7 +34,7 @@ The ArchiveWeb.page extension home page lists all of the available web archive c
 ![menu-view-archives](/assets/images/managing/ext-home-page.png)
 
 
-By default, the **My Web Archive** collection is created automatically. You can also create additional collections here. See the [Multiple Archives](./multiple) for more info on creating additional web archive collections.
+By default, the **My Web Archive** collection is created automatically. You can also create additional collections here. See the [Multiple Archives](../multiple) for more info on creating additional web archive collections.
 
 You can click on each individual archive to load the archive collection view.
 

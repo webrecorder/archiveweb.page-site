@@ -113,7 +113,7 @@ The behavior should work for both logged in and not-logged view of Twitter. (Bot
 ## Autoplay and Autofetch
 
 |:-------|:-------|
-| Status | [![Autoplay Behavior: Youtube](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/youtube-autoplay.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/youtube-autoplay.yaml) <br> [![Autoplay Behavior: Vimeo](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/vimeo-autoplay.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/vimeo-autoplay.yaml) |
+| Status | [![Autoplay Behavior: Youtube](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-youtube.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-youtube.yaml) <br> [![Autoplay Behavior: Vimeo](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-vimeo.yaml/badge.svg)](https://github.com/webrecorder/browsertrix-behaviors/actions/workflows/autoplay-vimeo.yaml) |
 | Multilingual | Yes |
 | Login Required | No |
 

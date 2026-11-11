@@ -53,5 +53,5 @@ There are a couple of ways to access and manage the extension:
 <br>
 <hr>
 
-#### <b><a href="pin_extension">Show me how to pin it</a></b>
+#### <b><a href="../pin_extension">Show me how to pin it</a></b>
 Pinning an extension just means having the icon accessible in your extensions bar. Just click on the pin icon to have it in your chrome's extensions bar.
